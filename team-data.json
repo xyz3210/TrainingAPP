@@ -39,6 +39,49 @@
   ],
   "sessions": [],
   "absences": [],
-  "formations": [],
+  "formations": [
+    {
+      "id": 1,
+      "name": "Formation 1",
+      "players": [
+        {
+          "uid": 1776842575311.377,
+          "id": 1776842520873,
+          "team": "team",
+          "label": "6",
+          "name": "Robo",
+          "x": 20,
+          "y": 52
+        },
+        {
+          "uid": 1776842575311.6558,
+          "id": 1776839645674,
+          "team": "team",
+          "label": "1",
+          "name": "Vlado",
+          "x": 20,
+          "y": 88
+        },
+        {
+          "uid": 1776842575311.6138,
+          "id": 1776842489373,
+          "team": "team",
+          "label": "20",
+          "name": "Leitzi",
+          "x": 20,
+          "y": 32
+        },
+        {
+          "uid": 1776842575311.8962,
+          "id": 1776842558561,
+          "team": "team",
+          "label": "13",
+          "name": "Luki",
+          "x": 35,
+          "y": 32
+        }
+      ]
+    }
+  ],
   "saison": ""
 }
