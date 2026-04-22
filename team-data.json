@@ -118,7 +118,37 @@
       "notes": ""
     }
   ],
-  "sessions": [],
+  "sessions": [
+    {
+      "id": 1776859902844,
+      "type": "Training",
+      "date": "2026-04-22",
+      "time": "18:30",
+      "note": "",
+      "opponent": "",
+      "homeAway": "Heim",
+      "result": "",
+      "intensity": "Mittel",
+      "attendance": {
+        "1776859489632": false,
+        "1776859523319": false,
+        "1776859556618": false,
+        "1776859581065": false,
+        "1776859623557": false,
+        "1776859646174": false,
+        "1776859669523": false,
+        "1776859701933": false,
+        "1776859729072": false,
+        "1776859754162": false,
+        "1776859779754": false,
+        "1776859798774": false,
+        "1776859835982": false
+      },
+      "absenceReasons": {
+        "1776859646174": "Verletzt"
+      }
+    }
+  ],
   "absences": [
     {
       "playerId": 1776859646174,
