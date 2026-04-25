@@ -272,6 +272,51 @@
           "name": "Laza",
           "x": 50.45413260672116,
           "y": 25.82887268507308
+        },
+        {
+          "uid": 1777099193647,
+          "id": null,
+          "team": "opponent",
+          "label": "1",
+          "name": "Gegner 1",
+          "x": 20,
+          "y": 58
+        },
+        {
+          "uid": 1777099193648,
+          "id": null,
+          "team": "opponent",
+          "label": "2",
+          "name": "Gegner 2",
+          "x": 35,
+          "y": 58
+        },
+        {
+          "uid": 1777099193649,
+          "id": null,
+          "team": "opponent",
+          "label": "3",
+          "name": "Gegner 3",
+          "x": 50,
+          "y": 58
+        },
+        {
+          "uid": 1777099193650,
+          "id": null,
+          "team": "opponent",
+          "label": "4",
+          "name": "Gegner 4",
+          "x": 65,
+          "y": 58
+        },
+        {
+          "uid": 1777099193651,
+          "id": null,
+          "team": "opponent",
+          "label": "5",
+          "name": "Gegner 5",
+          "x": 80,
+          "y": 58
         }
       ]
     }
