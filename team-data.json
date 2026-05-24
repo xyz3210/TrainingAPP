@@ -156,7 +156,16 @@
       "absenceReasons": {
         "1776859646174": "Verletzt",
         "1776859729072": "Verletzt"
-      }
+      },
+      "sections": [
+        {
+          "id": 1779627687820,
+          "name": "Test",
+          "duration": 15,
+          "description": "",
+          "tacticId": "1"
+        }
+      ]
     }
   ],
   "absences": [
