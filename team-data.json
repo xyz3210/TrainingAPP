@@ -160,10 +160,17 @@
       "sections": [
         {
           "id": 1779627687820,
-          "name": "Test",
+          "name": "Aufwärmen",
           "duration": 15,
-          "description": "",
+          "description": "Hösche",
           "tacticId": "1"
+        },
+        {
+          "id": 1779627752106,
+          "name": "Spielform",
+          "duration": 15,
+          "description": "4vs4+3",
+          "tacticId": null
         }
       ]
     }
