@@ -129,6 +129,50 @@
   ],
   "sessions": [
     {
+      "id": 1779628223712,
+      "type": "Training",
+      "date": "2026-05-26",
+      "time": "18:00",
+      "note": "",
+      "opponent": "",
+      "homeAway": "Heim",
+      "result": "",
+      "intensity": "Hart",
+      "sections": [
+        {
+          "id": 1779628183824,
+          "name": "Aufwärmen",
+          "duration": 15,
+          "description": "Hösche",
+          "tacticId": "1"
+        },
+        {
+          "id": 1779628212032,
+          "name": "Spielform",
+          "duration": 15,
+          "description": "4vs4",
+          "tacticId": "1779627779647"
+        }
+      ],
+      "attendance": {
+        "1776859489632": false,
+        "1776859523319": false,
+        "1776859556618": false,
+        "1776859581065": false,
+        "1776859623557": false,
+        "1776859646174": false,
+        "1776859669523": false,
+        "1776859701933": false,
+        "1776859729072": false,
+        "1776859754162": false,
+        "1776859779754": false,
+        "1776859798774": false,
+        "1776859835982": false,
+        "1776979796873": false
+      },
+      "absenceReasons": {}
+    },
+    {
       "id": 1776859902844,
       "type": "Training",
       "date": "2026-04-22",
