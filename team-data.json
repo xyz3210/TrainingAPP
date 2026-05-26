@@ -141,7 +141,7 @@
       "sections": [
         {
           "id": 1779777517100,
-          "name": "Aufwärmen",
+          "name": "AufwÃ¤rmen",
           "duration": 15,
           "description": "",
           "tacticId": "1779627779647"
@@ -185,9 +185,9 @@
       "sections": [
         {
           "id": 1779777493356,
-          "name": "Aufwärmen",
+          "name": "AufwÃ¤rmen",
           "duration": 15,
-          "description": "Hösche",
+          "description": "HÃ¶sche",
           "tacticId": "1"
         }
       ],
