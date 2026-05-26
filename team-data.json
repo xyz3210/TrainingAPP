@@ -127,7 +127,45 @@
       "notes": ""
     }
   ],
-  "sessions": [],
+  "sessions": [
+    {
+      "id": 1779822720396,
+      "type": "Training",
+      "date": "2026-05-26",
+      "time": "18:00",
+      "note": "",
+      "opponent": "",
+      "homeAway": "Heim",
+      "result": "",
+      "intensity": "Mittel",
+      "sections": [
+        {
+          "id": 1779822712740,
+          "name": "Aufwärmen",
+          "duration": 15,
+          "description": "",
+          "tacticId": "1"
+        }
+      ],
+      "attendance": {
+        "1776859489632": false,
+        "1776859523319": false,
+        "1776859556618": false,
+        "1776859581065": false,
+        "1776859623557": false,
+        "1776859646174": false,
+        "1776859669523": false,
+        "1776859701933": false,
+        "1776859729072": false,
+        "1776859754162": false,
+        "1776859779754": false,
+        "1776859798774": false,
+        "1776859835982": false,
+        "1776979796873": false
+      },
+      "absenceReasons": {}
+    }
+  ],
   "absences": [
     {
       "playerId": 1776859646174,
