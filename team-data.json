@@ -139,16 +139,7 @@
       "absenceReasons": {}
     }
   ],
-  "absences": [
-    {
-      "playerId": 1776859646174,
-      "category": "Verletzt",
-      "from": "2026-04-20",
-      "to": "2026-04-26",
-      "note": "",
-      "id": 1776859886020
-    }
-  ],
+  "absences": [],
   "formations": [
     {
       "id": 1,
